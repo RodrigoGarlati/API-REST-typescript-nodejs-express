@@ -1,0 +1,34 @@
+[
+    {
+      "latitude": 40.416875,
+      "longitude": -3.703308,
+      "city": "Madrid",
+      "description": "Puerta del Sol",
+      "busy" : "high",
+      "cost": "free"
+    },
+    {
+      "latitude": 40.417438,
+      "longitude": -3.693363,
+      "city": "Madrid",
+      "description": "Paseo del Prado",
+      "busy": "high",
+      "cost": "expensive"
+    },
+    {
+      "latitude": 40.407015,
+      "longitude": -3.691163,
+      "city": "Madrid",
+      "description": "Estación de Atocha",
+      "busy": "medium",
+      "cost": "cheap"
+    },
+    {
+      "latitude": 40.449958400,
+      "longitude": -3.6885731,
+      "city": "Madrid",
+      "description": "Santiago Bernabeu",
+      "busy": "low",
+      "cost": "expensive"
+    }
+]
